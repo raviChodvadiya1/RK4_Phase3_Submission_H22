@@ -1,0 +1,40 @@
+.leftside-container{
+    flex:0.3;
+    padding: 50px;
+}
+
+.patientProfle{
+    display: flex;
+    flex-direction: row;
+}
+
+.history-container{
+    flex:0.7;
+}
+
+.Main-container{
+    height:82vh;
+    display:flex;
+}
+
+/* Apply a nice background color and add some padding */
+.message {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Center the content horizontally and vertically */
+  .message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Add a subtle hover effect */
+  .messsage:hover {
+    background-color: #e0e0e0;
+    transition: background-color 0.3s ease;
+  }
+  

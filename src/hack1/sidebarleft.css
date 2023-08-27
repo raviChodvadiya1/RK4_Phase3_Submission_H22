@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+.leftside-container{
+    font-family: "Rubik";
+}
+.img1{
+    height: 150px;
+}
+.patientProfile{
+    margin-top: 20%;
+}   
+.patientProfle{
+    background-color: rgb(131, 197, 232);
+    margin-top: 15px;
+}
+.patientInfo{
+    margin-left: 0%;
+}
+.patientMedecine{
+    margin-left: 0%;
+}

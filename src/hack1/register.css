@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+
+.txt1{
+    color: white;
+    font-family: "Rubik";
+    font-size: 140%;
+}
+
+.body{
+    background-color: white;
+    font-family: "Rubik";
+    overflow-y: hidden;
+}
+.form2{
+    margin-top: 2%;
+}
+.radi{
+    margin-right: 3px;
+}
+.t1{
+    font-size: 30px;
+}
+.inp1{
+    width: 70%;
+}.inp2{
+    width: 70%;
+}.inp3{
+    width: 70%;
+}.inp4{
+    width: 70%;
+}.inp5{
+    width: 70%;
+}.inp6{
+    width: 70%;
+}
+.adrtxt{
+    margin-top: 1%;
+}
+.subm{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
